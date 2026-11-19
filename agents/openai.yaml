@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·网站基础检查"
+  short_description: "检查指定网页的标题、描述、H1、canonical、robots与基础链接信息。适用于 Google SEO 页面初检，"
+  default_prompt: "使用 $seoguan-page-audit，根据我提供的材料完成网站基础检查，保留证据与未确认项。"

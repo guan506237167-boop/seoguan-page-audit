@@ -1,0 +1,65 @@
+{
+  "url": "https://example.com/p1",
+  "titles": [
+    {
+      "text": "示例泵业（虚构）",
+      "line": 1
+    }
+  ],
+  "h1s": [
+    {
+      "text": "P1工业泵",
+      "line": 1
+    }
+  ],
+  "descriptions": [
+    "虚构产品测试页"
+  ],
+  "canonical_raw": [
+    "/p1",
+    "/p2"
+  ],
+  "canonical_resolved": [
+    "https://example.com/p1",
+    "https://example.com/p2"
+  ],
+  "robots_meta": [
+    {
+      "agent": "robots",
+      "content": "noindex,follow",
+      "line": 1
+    }
+  ],
+  "images": [
+    {
+      "src": "decoration.png",
+      "alt": "",
+      "line": 1
+    }
+  ],
+  "links": [
+    "https://example.com/manual"
+  ],
+  "issues": [
+    {
+      "type": "multiple_canonical",
+      "count": 2,
+      "judgment": "review"
+    },
+    {
+      "type": "noindex",
+      "agent": "robots",
+      "content": "noindex,follow",
+      "line": 1
+    }
+  ],
+  "unverified": [
+    "HTTP status and headers",
+    "robots.txt",
+    "JS rendered DOM",
+    "indexing",
+    "performance",
+    "link destinations"
+  ],
+  "scope": "provided HTML snapshot only"
+}
